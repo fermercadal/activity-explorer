@@ -1,25 +1,28 @@
-import { fetchNotesForBoard } from "@/lib/api/notes";
+import { notFound } from "next/navigation";
+import { fetchBoardPage } from "@/lib/api/board-page";
+import { BOARD_CATALOG } from "@/lib/boards/catalog";
 import NoteList from "./NoteList";
 
-const BOARD_TITLES: Record<string, string> = {
-  "star-wars": "Star Wars quotes",
-  "electronic-music": "Electronic music gear",
-  photography: "Photography gear",
-};
+/** Unknown slugs 404 here so the page (and `notFound()` after `await`) never run — avoids a React devtools `performance.measure` bug. */
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+	return BOARD_CATALOG.map(({ slug }) => ({ boardId: slug }));
+}
 
 type Props = {
-  params: Promise<{ boardId: string }>;
+	params: Promise<{ boardId: string }>;
 };
 
 export default async function BoardPage({ params }: Props) {
-  const { boardId } = await params;
-  const notes = await fetchNotesForBoard(boardId);
+	const { boardId } = await params;
 
-  const title = BOARD_TITLES[boardId] ?? `Board: ${boardId}`;
+	const data = await fetchBoardPage(boardId);
+	if (data === null) notFound();
 
-  return (
-    <main>
-      <NoteList notes={notes} boardTitle={title} />
-    </main>
-  );
+	return (
+		<main>
+			<NoteList notes={data.notes} boardTitle={data.label} />
+		</main>
+	);
 }
