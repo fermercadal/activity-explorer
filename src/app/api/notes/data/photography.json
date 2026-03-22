@@ -1,0 +1,234 @@
+[
+  {
+    "text": "Nikon D850",
+    "author": "Nikon"
+  },
+  {
+    "text": "Nikon Z9",
+    "author": "Nikon"
+  },
+  {
+    "text": "Nikon Z8",
+    "author": "Nikon"
+  },
+  {
+    "text": "Nikon Z6 III",
+    "author": "Nikon"
+  },
+  {
+    "text": "Nikon F3",
+    "author": "Nikon"
+  },
+  {
+    "text": "Nikon FM2",
+    "author": "Nikon"
+  },
+  {
+    "text": "Nikon Z 85mm f/1.2 S",
+    "author": "Nikon"
+  },
+  {
+    "text": "Nikon Z 24-120mm f/4 S",
+    "author": "Nikon"
+  },
+  {
+    "text": "Canon EOS R5",
+    "author": "Canon"
+  },
+  {
+    "text": "Canon EOS R6 Mark III",
+    "author": "Canon"
+  },
+  {
+    "text": "Canon EOS R8",
+    "author": "Canon"
+  },
+  {
+    "text": "Canon EOS R3",
+    "author": "Canon"
+  },
+  {
+    "text": "Canon EOS-1V",
+    "author": "Canon"
+  },
+  {
+    "text": "Canon AE-1 Program",
+    "author": "Canon"
+  },
+  {
+    "text": "Canon RF 28-70mm f/2L USM",
+    "author": "Canon"
+  },
+  {
+    "text": "Canon RF 100-500mm f/4.5-7.1L IS USM",
+    "author": "Canon"
+  },
+  {
+    "text": "Sony A7R V",
+    "author": "Sony"
+  },
+  {
+    "text": "Sony A7 IV",
+    "author": "Sony"
+  },
+  {
+    "text": "Sony A7C II",
+    "author": "Sony"
+  },
+  {
+    "text": "Sony FX3",
+    "author": "Sony"
+  },
+  {
+    "text": "Sony A1",
+    "author": "Sony"
+  },
+  {
+    "text": "Sony FE 50mm f/1.2 GM",
+    "author": "Sony"
+  },
+  {
+    "text": "Sony FE 24-70mm f/2.8 GM II",
+    "author": "Sony"
+  },
+  {
+    "text": "Sony FE 70-200mm f/2.8 GM OSS II",
+    "author": "Sony"
+  },
+  {
+    "text": "Fujifilm X-T5",
+    "author": "Fujifilm"
+  },
+  {
+    "text": "Fujifilm X-H2S",
+    "author": "Fujifilm"
+  },
+  {
+    "text": "Fujifilm X100VI",
+    "author": "Fujifilm"
+  },
+  {
+    "text": "Fujifilm GFX100 II",
+    "author": "Fujifilm"
+  },
+  {
+    "text": "Fujifilm X-Pro3",
+    "author": "Fujifilm"
+  },
+  {
+    "text": "Fujifilm GF 80mm f/1.7 R WR",
+    "author": "Fujifilm"
+  },
+  {
+    "text": "Fujifilm XF 56mm f/1.2 R WR",
+    "author": "Fujifilm"
+  },
+  {
+    "text": "Leica M11",
+    "author": "Leica"
+  },
+  {
+    "text": "Leica Q3",
+    "author": "Leica"
+  },
+  {
+    "text": "Leica SL3",
+    "author": "Leica"
+  },
+  {
+    "text": "Leica MP",
+    "author": "Leica"
+  },
+  {
+    "text": "Leica Summilux-M 35mm f/1.4 ASPH",
+    "author": "Leica"
+  },
+  {
+    "text": "Leica APO-Summicron-M 50mm f/2 ASPH",
+    "author": "Leica"
+  },
+  {
+    "text": "Panasonic Lumix S5 II",
+    "author": "Panasonic"
+  },
+  {
+    "text": "Panasonic Lumix GH6",
+    "author": "Panasonic"
+  },
+  {
+    "text": "Panasonic Lumix G9 II",
+    "author": "Panasonic"
+  },
+  {
+    "text": "Panasonic Lumix S PRO 50mm f/1.4",
+    "author": "Panasonic"
+  },
+  {
+    "text": "Panasonic Lumix S 24-105mm f/4 MACRO O.I.S.",
+    "author": "Panasonic"
+  },
+  {
+    "text": "OM System OM-1",
+    "author": "OM System"
+  },
+  {
+    "text": "OM System OM-5",
+    "author": "OM System"
+  },
+  {
+    "text": "OM System M.Zuiko 40-150mm f/2.8 PRO",
+    "author": "OM System"
+  },
+  {
+    "text": "OM System M.Zuiko 90mm f/3.5 Macro IS PRO",
+    "author": "OM System"
+  },
+  {
+    "text": "Hasselblad X2D 100C",
+    "author": "Hasselblad"
+  },
+  {
+    "text": "Hasselblad 907X & CFV 100C",
+    "author": "Hasselblad"
+  },
+  {
+    "text": "Hasselblad 500C/M",
+    "author": "Hasselblad"
+  },
+  {
+    "text": "Sigma fp L",
+    "author": "Sigma"
+  },
+  {
+    "text": "Sigma 35mm f/1.2 DG DN Art",
+    "author": "Sigma"
+  },
+  {
+    "text": "Sigma 85mm f/1.4 DG DN Art",
+    "author": "Sigma"
+  },
+  {
+    "text": "Sigma 18-50mm f/2.8 DC DN",
+    "author": "Sigma"
+  },
+  {
+    "text": "Sigma 150-600mm f/5-6.3 DG DN OS Sports",
+    "author": "Sigma"
+  },
+  {
+    "text": "Tamron 28-75mm f/2.8 Di III VXD G2",
+    "author": "Tamron"
+  },
+  {
+    "text": "Tamron 35-150mm f/2-2.8 Di III VXD",
+    "author": "Tamron"
+  },
+  {
+    "text": "Tamron 50-400mm f/4.5-6.3 Di III VC VXD",
+    "author": "Tamron"
+  },
+  {
+    "text": "Tamron 90mm f/2.8 Di III Macro VXD",
+    "author": "Tamron"
+  }
+]

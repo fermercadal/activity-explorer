@@ -1,0 +1,282 @@
+[
+  {
+    "text": "Moog Minimoog Model D",
+    "author": "Moog"
+  },
+  {
+    "text": "Moog Subsequent 37",
+    "author": "Moog"
+  },
+  {
+    "text": "Moog Grandmother",
+    "author": "Moog"
+  },
+  {
+    "text": "Moog Matriarch",
+    "author": "Moog"
+  },
+  {
+    "text": "Moog Mother-32",
+    "author": "Moog"
+  },
+  {
+    "text": "Moog DFAM",
+    "author": "Moog"
+  },
+  {
+    "text": "Moog Sub Phatty",
+    "author": "Moog"
+  },
+  {
+    "text": "Moog One",
+    "author": "Moog"
+  },
+  {
+    "text": "Roland Jupiter-8",
+    "author": "Roland"
+  },
+  {
+    "text": "Roland Juno-106",
+    "author": "Roland"
+  },
+  {
+    "text": "Roland Juno-60",
+    "author": "Roland"
+  },
+  {
+    "text": "Roland SH-101",
+    "author": "Roland"
+  },
+  {
+    "text": "Roland TB-303",
+    "author": "Roland"
+  },
+  {
+    "text": "Roland TR-808",
+    "author": "Roland"
+  },
+  {
+    "text": "Roland TR-909",
+    "author": "Roland"
+  },
+  {
+    "text": "Roland SYSTEM-8",
+    "author": "Roland"
+  },
+  {
+    "text": "Korg MS-20",
+    "author": "Korg"
+  },
+  {
+    "text": "Korg Minilogue XD",
+    "author": "Korg"
+  },
+  {
+    "text": "Korg Monologue",
+    "author": "Korg"
+  },
+  {
+    "text": "Korg Wavestate",
+    "author": "Korg"
+  },
+  {
+    "text": "Korg Opsix",
+    "author": "Korg"
+  },
+  {
+    "text": "Korg microKORG",
+    "author": "Korg"
+  },
+  {
+    "text": "Korg Nautilus",
+    "author": "Korg"
+  },
+  {
+    "text": "Korg Electribe SX",
+    "author": "Korg"
+  },
+  {
+    "text": "Sequential Prophet-5",
+    "author": "Sequential"
+  },
+  {
+    "text": "Sequential Prophet-6",
+    "author": "Sequential"
+  },
+  {
+    "text": "Sequential Prophet Rev2",
+    "author": "Sequential"
+  },
+  {
+    "text": "Sequential OB-6",
+    "author": "Sequential"
+  },
+  {
+    "text": "Sequential Take 5",
+    "author": "Sequential"
+  },
+  {
+    "text": "Sequential Trigon-6",
+    "author": "Sequential"
+  },
+  {
+    "text": "Elektron Analog Rytm MKII",
+    "author": "Elektron"
+  },
+  {
+    "text": "Elektron Analog Four MKII",
+    "author": "Elektron"
+  },
+  {
+    "text": "Elektron Digitakt",
+    "author": "Elektron"
+  },
+  {
+    "text": "Elektron Digitone",
+    "author": "Elektron"
+  },
+  {
+    "text": "Elektron Syntakt",
+    "author": "Elektron"
+  },
+  {
+    "text": "Elektron Octatrack MKII",
+    "author": "Elektron"
+  },
+  {
+    "text": "Elektron Model:Samples",
+    "author": "Elektron"
+  },
+  {
+    "text": "Elektron Model:Cycles",
+    "author": "Elektron"
+  },
+  {
+    "text": "Yamaha DX7",
+    "author": "Yamaha"
+  },
+  {
+    "text": "Yamaha Reface DX",
+    "author": "Yamaha"
+  },
+  {
+    "text": "Yamaha Montage M8",
+    "author": "Yamaha"
+  },
+  {
+    "text": "Yamaha MODX+",
+    "author": "Yamaha"
+  },
+  {
+    "text": "Yamaha CP88",
+    "author": "Yamaha"
+  },
+  {
+    "text": "Yamaha SEQTRAK",
+    "author": "Yamaha"
+  },
+  {
+    "text": "Yamaha Reface CS",
+    "author": "Yamaha"
+  },
+  {
+    "text": "Nord Stage 4",
+    "author": "Nord"
+  },
+  {
+    "text": "Nord Piano 5",
+    "author": "Nord"
+  },
+  {
+    "text": "Nord Lead A1",
+    "author": "Nord"
+  },
+  {
+    "text": "Nord Wave 2",
+    "author": "Nord"
+  },
+  {
+    "text": "Nord Electro 6D",
+    "author": "Nord"
+  },
+  {
+    "text": "Nord Grand 2",
+    "author": "Nord"
+  },
+  {
+    "text": "Arturia MicroFreak",
+    "author": "Arturia"
+  },
+  {
+    "text": "Arturia MiniFreak",
+    "author": "Arturia"
+  },
+  {
+    "text": "Arturia PolyBrute",
+    "author": "Arturia"
+  },
+  {
+    "text": "Arturia MatrixBrute",
+    "author": "Arturia"
+  },
+  {
+    "text": "Arturia MiniBrute 2",
+    "author": "Arturia"
+  },
+  {
+    "text": "Arturia DrumBrute Impact",
+    "author": "Arturia"
+  },
+  {
+    "text": "Teenage Engineering OP-1",
+    "author": "Teenage Engineering"
+  },
+  {
+    "text": "Teenage Engineering OP-Z",
+    "author": "Teenage Engineering"
+  },
+  {
+    "text": "Teenage Engineering OP-XY",
+    "author": "Teenage Engineering"
+  },
+  {
+    "text": "Teenage Engineering EP-133 K.O. II",
+    "author": "Teenage Engineering"
+  },
+  {
+    "text": "Teenage Engineering PO-33 K.O!",
+    "author": "Teenage Engineering"
+  },
+  {
+    "text": "Teenage Engineering CM-15",
+    "author": "Teenage Engineering"
+  },
+  {
+    "text": "Akai MPC Live II",
+    "author": "Akai"
+  },
+  {
+    "text": "Akai MPC One+",
+    "author": "Akai"
+  },
+  {
+    "text": "Akai MPC X",
+    "author": "Akai"
+  },
+  {
+    "text": "Akai Force",
+    "author": "Akai"
+  },
+  {
+    "text": "Akai MPC 2000XL",
+    "author": "Akai"
+  },
+  {
+    "text": "Akai MPK Mini MK3",
+    "author": "Akai"
+  },
+  {
+    "text": "Akai S3000XL",
+    "author": "Akai"
+  }
+]
