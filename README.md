@@ -44,4 +44,16 @@ pnpm build       # Production build
 pnpm start       # Serve production build
 pnpm lint        # ESLint
 pnpm typecheck   # TypeScript (no emit)
+pnpm test        # Vitest (unit + component + API handler)
+pnpm test:e2e    # Playwright (Chromium; starts dev server unless CI)
 ```
+
+### End-to-end tests (Playwright)
+
+Playwright does **not** ship browser binaries with `pnpm install`. **Once per machine** (and in CI before `pnpm test:e2e`), install Chromium:
+
+```bash
+pnpm exec playwright install chromium
+```
+
+Use `pnpm exec playwright install` if you add more browsers in `playwright.config.ts`. In CI, run the same command (or `pnpm exec playwright install --with-deps` on Linux if the runner needs system libs).

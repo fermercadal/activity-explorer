@@ -5,5 +5,9 @@ out/
 .env*.local
 .DS_Store
 
+playwright-report/
+test-results/
+blob-report/
+
 # Local brief only (not part of submitted repo)
 assignment.md
