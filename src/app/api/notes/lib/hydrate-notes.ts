@@ -1,11 +1,10 @@
+import { STICKY_NOTE_COLOR_NAMES } from "@/lib/notes/note-colors";
 import type { StickyNote } from "@/types/stickyNote";
 
 export type RawStickyNote = {
 	text: string;
 	author: string;
 };
-
-const COLORS = ["yellow", "pink", "blue", "green", "orange", "purple"] as const;
 
 export function hydrateStickyNotes(
 	items: RawStickyNote[],
@@ -17,7 +16,7 @@ export function hydrateStickyNotes(
 		author: item.author,
 		x: 80 + ((i * 37) % 920),
 		y: 60 + ((i * 53) % 880),
-		color: COLORS[i % COLORS.length]!,
+		color: STICKY_NOTE_COLOR_NAMES[i % STICKY_NOTE_COLOR_NAMES.length]!,
 		createdAt: new Date(Date.now() - i * 45 * 60 * 1000).toISOString(),
 	}));
 }

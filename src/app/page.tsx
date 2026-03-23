@@ -1,4 +1,4 @@
-import Link from "next/link";
+import { AppLink } from "@/components/ui";
 import { fetchUserBoards } from "@/lib/api/user-boards";
 
 export default async function Home() {
@@ -13,12 +13,9 @@ export default async function Home() {
 			<ul className="flex flex-col gap-3">
 				{boards.map((board) => (
 					<li key={board.slug}>
-						<Link
-							href={`/boards/${board.slug}`}
-							className="block w-64 rounded-lg border border-gray-200 bg-white px-5 py-3 font-medium text-gray-700 transition-colors hover:bg-gray-100"
-						>
+						<AppLink href={`/boards/${board.slug}`} variant="board">
 							{board.label}
-						</Link>
+						</AppLink>
 					</li>
 				))}
 			</ul>

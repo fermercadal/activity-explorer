@@ -1,5 +1,5 @@
-import Link from "next/link";
 import type { Metadata } from "next";
+import { AppLink } from "@/components/ui";
 
 export const metadata: Metadata = {
 	title: {
@@ -16,12 +16,9 @@ export default function NotFound() {
 				<p className="mt-3 text-gray-600">
 					This board or page doesn&apos;t exist. Check the URL or start again from home.
 				</p>
-				<Link
-					href="/"
-					className="mt-8 inline-block rounded-lg border border-gray-200 bg-white px-5 py-3 text-sm font-medium text-gray-700 transition-colors hover:bg-gray-100 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-400"
-				>
+				<AppLink href="/" variant="cta">
 					Back to home
-				</Link>
+				</AppLink>
 			</div>
 		</main>
 	);
